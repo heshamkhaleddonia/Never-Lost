@@ -6,7 +6,8 @@ import android.graphics.drawable.Drawable;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.yellow.eg.R;
+import com.hesham.neverlost.R;
+
 
 /**
  * used for making the divider of the recycler view

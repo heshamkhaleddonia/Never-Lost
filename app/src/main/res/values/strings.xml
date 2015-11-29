@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">NeverLost</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Never Lost</string>
+    <string name="category_name">Category Name</string>
+    <string name="createCategory">Create Category</string>
 </resources>
